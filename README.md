@@ -16,3 +16,11 @@ I want to be able to view which artists have the highest contributions in this l
 As a contemporary music historian
 So that I can understand which decade is the most popular amongst the public for music
 I want to be able to see the year in which each contributing track was released.
+
+As a DJ on a retro radio station
+So that I can see which tracks are most important amongst the public to inform how I devise my programme playlists
+I want to be able to see a break down of the most popular tracks on a regular basis.
+
+As an owner of an independent record store
+So that I know which classic singles and albums to order in response to public demand
+I want to be able to keep abreast of the most treasured tracks of all time.
